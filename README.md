@@ -1,6 +1,6 @@
 # Credit Card Terms & Conditions Change Tracker
 
-An automated monitoring system that detects changes to credit card Terms & Conditions (T&C), generates AI-powered summaries of the differences, and sends real-time notifications to a Telegram channel.
+An automated monitoring system that detects changes to credit card Terms & Conditions (T&C), generates AI-powered summaries of the differences, and sends notifications to a Telegram channel.
 
 The project is designed to help users stay informed whenever banks update their credit card terms and conditions, ensuring they never miss important changes that could affect rewards, cashback, fees, or eligibility.
 

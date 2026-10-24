@@ -1,0 +1,34 @@
+# Local credentials and configuration
+.env
+.env.*
+*.env
+!.env.example
+!*.env.example
+*.pem
+*.key
+*.session
+*.session-*
+
+# Downloaded documents and runtime state
+PDF Files/
+*.pdf
+*.download
+scheduler.txt
+*.log
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.xlsx
+
+# Personal card list (create it from CC_Name_URL.example.xlsx)
+CC_Name_URL.xlsx

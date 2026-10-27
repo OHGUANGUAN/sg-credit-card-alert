@@ -204,3 +204,7 @@ failed downloads exits unsuccessfully and is not recorded as completed, so it
 can be retried the same day. Temporary downloads are cleaned up. If Telegram
 itself is unavailable, the alert failure is reported locally without exposing
 the bot token; delivery cannot be guaranteed during an outage.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
